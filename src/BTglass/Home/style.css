@@ -1,0 +1,39 @@
+.Home{
+    width: 100%;
+}
+
+.model .img-model{
+    width: 20%;
+}
+
+.card{
+    position: relative;
+}
+
+.card .content{
+    position: absolute;
+    top: 85px;
+}
+
+.content .glass{
+    display: inline;
+    margin-left: 70px ;
+
+}
+
+ .detail{
+     background-color: rgba(244, 247, 82, 0.459);
+   position: absolute;
+  bottom: 0;
+}
+
+
+.choose-glass{
+    width: 80%;
+    border: 1px solid black;
+    
+}
+
+.choose-glass:hover{
+    border: 1px solid rgb(245, 240, 240);
+}
